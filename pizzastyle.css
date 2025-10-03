@@ -1,5 +1,14 @@
 /*Jada Gordon*/
 
+nav{
+height:35px;
+}
+main{
+font-weight: bold;
+background-image: url(background-1.webp);
+background-repeat: repeat-x;
+}
+
 body{
     font-family: "Arial", sans-serif;
   background-color: #d7c7aa;
