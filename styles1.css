@@ -1,0 +1,49 @@
+*{
+    background: black;
+    color:white;
+    font-family:"Tinos";
+}
+
+.Top{
+text-align: center;
+}
+
+ul{
+list-style: none; 
+    padding: 0; 
+    margin: 3px; 
+    display: flex; 
+    justify-content: center;
+    color:aliceblue;
+}
+
+header img{
+    max-width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+img{
+    max-width: 500px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.story{
+    display: grid;
+	grid-template-columns: 300px 500px 300px;
+    grid-template-rows: 4rem;
+}
+
+div{
+    padding: .5rem;
+}
+
+div div {
+	border: 1px solid bisque;
+}
+
+.center{
+    text-align: center;
+    margin:auto;
+}
