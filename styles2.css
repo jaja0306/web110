@@ -30,3 +30,14 @@ div{
 div div {
 	border: 1px solid bisque;
 }
+
+.center{
+    text-align: center;
+    margin:auto;
+}
+
+img{
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+}
